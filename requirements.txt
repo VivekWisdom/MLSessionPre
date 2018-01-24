@@ -6,10 +6,9 @@ numpy
 pandas
 scipy
 matplotlib
+seaborn
+requests
 jupyter
 pyyaml
 easydict
 python-dateutil
-seaborn
-requests
-json
